@@ -6,7 +6,8 @@ Blackout Developments Discord (https://discord.gg/hhgFKbERqk)
 
 Michy_TV Twitch https://www.twitch.tv/michy_tv
 
-
+Fourm Post 
+https://forum.cfx.re/t/mcdonalds-items-ox-inventory/5070731
 
 
 McDonalds add-on for those wanting to add food and items for esx and ox_inventory
